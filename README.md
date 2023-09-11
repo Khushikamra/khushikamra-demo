@@ -1,4 +1,4 @@
 # khushikamra-demo
 This is my first Git repository.
 <br>
-Author- Khushi Kamra
+Author- Khushi kamra
